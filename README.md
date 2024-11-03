@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-I'm Mehdi! A passionate developer who's always looking for projects to work on!
+Hi! I’m Mehdi, an Entrepreneur and Student currently studying Electrical Engineering and Computer Science at the University of California, Berkeley. My current experience lies mainly within full-stack development and building projects to help improve the lives of people all over the world. 
+
+You can check out some of my projects right here on github or go over to my website at mehdi.us!
 
 ---
 ### 🔭 What I'm working on
-- I’m currently working on [NC Hack!](https://nchack.org)
-- I’m currently learning C++!
+- I’m currently working on [Finabl!](https://nchack.org)
 
 ### 🌱 What I'm interested in
-- I'm interested in Fintech, new projects, and especially AI/ML
+- I'm interested in AI/ML, Fintech, and startups
 - I am a big believer that code is the key to changing our world, and I'm always excited to hear about new things!
 
 ### 📫  How to contact me
