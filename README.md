@@ -6,7 +6,7 @@ You can check out some of my projects right here on github or go over to my webs
 
 ---
 ### 🔭 What I'm working on
-- I’m currently working on [Finabl!](https://nchack.org)
+- I’m currently working on [Finabl!](https://finabl.org)
 
 ### 🌱 What I'm interested in
 - I'm interested in AI/ML, Fintech, and startups
