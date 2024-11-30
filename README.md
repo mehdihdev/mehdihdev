@@ -17,4 +17,5 @@ You can check out some of my projects right here on github or go over to my webs
 - I've learned over the years that cold-emailing someone is the best way to make new connections, so feel free to email me about anything!
 
 
-[![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdihdev&hide=issues&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdihdev&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: #[![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdihdev&hide=issues&count_private=true&show_icons=true&theme=algolia)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdihdev&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
