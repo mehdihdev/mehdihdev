@@ -17,3 +17,9 @@ You can check out some of my projects right here on github or go over to my webs
 - I've learned over the years that cold-emailing someone is the best way to make new connections, so feel free to email me about anything!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdihdev&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
