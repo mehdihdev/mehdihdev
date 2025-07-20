@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi! I’m Mehdi, an Entrepreneur and Student currently studying Electrical Engineering and Computer Science at the University of California, Berkeley. My current experience lies mainly within full-stack development and building projects to help improve the lives of people all over the world. 
+I'm Mehdi, a current sophomore @ UC Berkeley studying Electrical Engineering and Computer Science (EECS). I've spent the better part of the last half-decade solving problems through code, everything from building apps to help local communities to creating AI-powered glasses to help the blind see.
 
 You can check out some of my projects right here on github or go over to my website at mehdi.us!
 
@@ -19,7 +19,7 @@ You can check out some of my projects right here on github or go over to my webs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdihdev&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehdihdev/mehdihdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehdihdev/mehdihdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mehdihdev/mehdihdev/output/github-contribution-grid-snake.svg">
 </picture>
