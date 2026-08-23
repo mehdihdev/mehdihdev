@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mehdi, a current sophomore @ UC Berkeley studying Electrical Engineering and Computer Science (EECS). I've spent the better part of the last half-decade solving problems through code, everything from building apps to help local communities to creating AI-powered glasses to help the blind see.
+I'm Mehdi, a current junior @ UC Berkeley studying Electrical Engineering and Computer Science (EECS). I've spent the better part of the last half-decade solving problems through code, everything from building apps to help local communities to creating AI-powered glasses to help the blind see.
 
 You can check out some of my projects right here on github or go over to my website at mehdi.us!
 
@@ -9,7 +9,7 @@ You can check out some of my projects right here on github or go over to my webs
 - Currently working on [Solus/Forge](https://solusforge.com), the world's first Robotics Development Environment (RDE)
 
 ### 🌱 What I'm interested in
-- I'm interested in AI/ML, Fintech, and startups
+- I'm interested in AI/ML, Robotics, Fintech, and startups
 - I am a big believer that code is the key to changing our world, and I'm always excited to hear about new things!
 
 ### 📫  How to contact me
